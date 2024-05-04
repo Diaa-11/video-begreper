@@ -1,0 +1,62 @@
+[
+    {
+        "navn": "Levende bilder",
+        "forklaring": "Dynamisk visuelle sekvenser som gir inntrykk av bevegelse."
+    },
+    {
+        "navn": "Datamaskiner",
+        "forklaring": "Elektroniske enheter som behandler og lagrer data, inkludert tekst, bilder og video."
+    },
+    {
+        "navn": "Datastrøm",
+        "forklaring": "Kontinuerlig flyt av data fra én enhet til en annen, som vanligvis overføres over et nettverk eller lagres på en enhet."
+    },
+    {
+        "navn": "Bit og byte",
+        "forklaring": "Minste enheter for digital informasjon; en bit representerer en enkelt 0 eller 1, mens en byte er en gruppe på åtte bits."
+    },
+    {
+        "navn": "Bilder per sekund (fps)",
+        "forklaring": "Antall bilder som vises i løpet av ett sekund i en animasjon eller video."
+    },
+    {
+        "navn": "Tradisjonell film",
+        "forklaring": "Film laget ved å fange opp bilder på celluloid eller lignende materiale, vanligvis vist med projeksjon."
+    },
+    {
+        "navn": "PAL-systemet",
+        "forklaring": "Analogt fjernsynssystem brukt i mange europeiske og andre regioner, opererer med en bildefrekvens på 25 bilder per sekund."
+    },
+    {
+        "navn": "NTSC-systemet",
+        "forklaring": "Analogt fjernsynssystem som ble brukt i Nord-Amerika, Japan og andre regioner, opererer med en bildefrekvens på 30 bilder per sekund."
+    },
+    {
+        "navn": "Digitale standarder",
+        "forklaring": "Spesifikasjoner og retningslinjer for digitalt innhold og teknologi, som sikrer kompatibilitet og kvalitet."
+    },
+    {
+        "navn": "Bildefrekvenser",
+        "forklaring": "Antall bilder som vises per sekund i en video eller animasjon."
+    },
+    {
+        "navn": "Kompresjon",
+        "forklaring": "Prosessen med å redusere størrelsen på en fil eller datasett ved å fjerne unødvendig informasjon eller bruke effektive algoritmer."
+    },
+    {
+        "navn": "Videofiler",
+        "forklaring": "Elektroniske filer som inneholder videosekvenser, vanligvis lagret i ulike formater som MP4, AVI eller MOV."
+    },
+    {
+        "navn": "Kvalitet",
+        "forklaring": "Måling av hvor godt et bilde eller en video gjengir detaljer og farger, vanligvis påvirket av oppløsning, kompresjon og andre faktorer."
+    },
+    {
+        "navn": "MJPG (Motion-JPG)",
+        "forklaring": "Videofilformat som består av en serie JPEG-bilder, der hver ramme er komprimert med JPG-algoritmen."
+    },
+    {
+        "navn": "Kompresjonsmetoder",
+        "forklaring": "Teknikker og algoritmer som brukes til å redusere størrelsen på datafiler, for eksempel JPEG for bilder og MP3 for lyd."
+    }
+]
