@@ -8,10 +8,7 @@
         "begrep": "Datastrøm",
         "definisjon": "Kontinuerlig flyt av data fra én enhet til en annen, som vanligvis overføres over et nettverk eller lagres på en enhet."
     },
-    {
-        "begrep": "Bit og byte",
-        "definisjon": "Minste enheter for digital informasjon; en bit representerer en enkelt 0 eller 1, mens en byte er en gruppe på åtte bits."
-    },
+   
     {
         "begrep": "Bilder per sekund (fps)",
         "definisjon": "Antall bilder som vises i løpet av ett sekund i en animasjon eller video."
@@ -33,10 +30,7 @@
         "begrep": "Bildefrekvenser",
         "definisjon": "Antall bilder som vises per sekund i en video eller animasjon."
     },
-    {
-        "begrep": "Kompresjon",
-        "definisjon": "Prosessen med å redusere størrelsen på en fil eller datasett ved å fjerne unødvendig informasjon eller bruke effektive algoritmer."
-    },
+ 
 
   
     {
@@ -45,6 +39,6 @@
     },
     {
         "begrep": "Kompresjonsmetoder",
-        "definisjon": "Teknikker og algoritmer som brukes til å redusere størrelsen på datafiler, for eksempel JPEG for bilder og MP3 for lyd."
+        "definisjon": "Teknikker og algoritmer som brukes til å redusere størrelsen på datafiler."
     }
 ]
