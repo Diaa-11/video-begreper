@@ -3,10 +3,7 @@
         "begrep": "Levende bilder",
         "definisjon": "Dynamisk visuelle sekvenser som gir inntrykk av bevegelse."
     },
-    {
-        "begrep": "Datamaskiner",
-        "definisjon": "Elektroniske enheter som behandler og lagrer data, inkludert tekst, bilder og video."
-    },
+
     {
         "begrep": "Datastrøm",
         "definisjon": "Kontinuerlig flyt av data fra én enhet til en annen, som vanligvis overføres over et nettverk eller lagres på en enhet."
@@ -19,10 +16,7 @@
         "begrep": "Bilder per sekund (fps)",
         "definisjon": "Antall bilder som vises i løpet av ett sekund i en animasjon eller video."
     },
-    {
-        "begrep": "Tradisjonell film",
-        "definisjon": "Film laget ved å fange opp bilder på celluloid eller lignende materiale, vanligvis vist med projeksjon."
-    },
+  
     {
         "begrep": "PAL-systemet",
         "definisjon": "Analogt fjernsynssystem brukt i mange europeiske og andre regioner, opererer med en bildefrekvens på 25 bilder per sekund."
@@ -43,14 +37,8 @@
         "begrep": "Kompresjon",
         "definisjon": "Prosessen med å redusere størrelsen på en fil eller datasett ved å fjerne unødvendig informasjon eller bruke effektive algoritmer."
     },
-    {
-        "begrep": "Videofiler",
-        "definisjon": "Elektroniske filer som inneholder videosekvenser, vanligvis lagret i ulike formater som MP4, AVI eller MOV."
-    },
-    {
-        "begrep": "Kvalitet",
-        "definisjon": "Måling av hvor godt et bilde eller en video gjengir detaljer og farger, vanligvis påvirket av oppløsning, kompresjon og andre faktorer."
-    },
+
+  
     {
         "begrep": "MJPG (Motion-JPG)",
         "definisjon": "Videofilformat som består av en serie JPEG-bilder, der hver ramme er komprimert med JPG-algoritmen."
